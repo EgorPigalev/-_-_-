@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пигалев_Входной_контроль", "Пигалев_Входной_контроль\Пигалев_Входной_контроль.csproj", "{D8187907-3A15-4E6A-A388-0C1A09C2FD7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8187907-3A15-4E6A-A388-0C1A09C2FD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8187907-3A15-4E6A-A388-0C1A09C2FD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8187907-3A15-4E6A-A388-0C1A09C2FD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8187907-3A15-4E6A-A388-0C1A09C2FD7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D4FC87-00D9-4B6F-92FE-8268E73AF198}
+	EndGlobalSection
+EndGlobal
